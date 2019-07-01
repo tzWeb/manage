@@ -1,0 +1,130 @@
+body,
+ol,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+th,
+td,
+dl,
+dd,
+form,
+fieldset,
+legend,
+input,
+textarea,
+select {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    font: 14px "宋体", 'SimSun ',"Arial Narrow", HELVETICA;
+    width: 100%;
+    height: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+a {
+    color: #172c45;
+    text-decoration: none
+}
+
+a:hover {
+    color: #cd0200;
+    text-decoration: underline
+}
+
+i,
+em {
+    font-style: normal
+}
+
+li {
+    list-style: none
+}
+
+img {
+    border: 0;
+    vertical-align: middle
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+html{
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+    overflow: hidden;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+.scale{
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+/*@font-face {*/
+/*    font-family: 'pfBold';*/
+/*    src: url('fonts/PingFang Bold.ttf');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'pfExtraLight';*/
+/*    src: url('fonts/PingFang ExtraLight.ttf');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'pfHeavy';*/
+/*    src: url('fonts/PingFang Heavy.ttf');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'pfLight';*/
+/*    src: url('fonts/PingFang Light.ttf');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'pfMedium';*/
+/*    src: url('fonts/PingFang Medium.ttf');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'pfRegular';*/
+/*    src: url('fonts/PingFang Regular.ttf');*/
+/*}*/
+
+/*.pfBold {*/
+/*    font-family: "pfBold";*/
+/*}*/
+
+/*.pfExtraLight {*/
+/*    font-family: "pfExtraLight";*/
+/*}*/
+
+/*.pfHeavy {*/
+/*    font-family: "pfHeavy";*/
+/*}*/
+
+/*.pfLight {*/
+/*    font-family: "pfLight";*/
+/*}*/
+
+/*.pfMedium {*/
+/*    font-family: "pfMedium";*/
+/*}*/
+
+/*.pfRegular {*/
+/*    font-family: "pfRegular";*/
+/*}*/
+
+/*.f18 {*/
+/*    font-size: 18px;*/
+/*}*/
